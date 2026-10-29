@@ -64,5 +64,59 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-cloudforbots-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://cloudforbots.com/
+Cloud for Bots provides a platform that lets AI bots run heavy jobs, browse logged-in sessions, store data, manage secrets, queues, cron jobs, locks, webhooks, and hand off work to humans, all behind a single API key and MCP server. It offers sandboxes, logged-in browser sessions, storage, secrets, queues, cron, locks, webhooks and human handoff for AI bots, enabling developers to build, test, and deploy bot-powered applications quickly and securely. Free to start with a starter plan and paid tiers for higher usage.
+
+**Areas:** Company · Bot · AI · Platform · Sandbox · MCP · Cloud
+
+## cloudforbots-com on APIs.io
+
+Everything profiled for cloudforbots-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cloudforbots-com/](https://apis.io/providers/cloudforbots-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (18)
+
+- cloudforbots-com Agent Wake API — The agent-wake API from cloudforbots-com — 4 operation(s) for agent-wake.
+- cloudforbots-com Approval Rules API — The approval-rules API from cloudforbots-com — 6 operation(s) for approval-rules.
+- cloudforbots-com Audit API — The audit API from cloudforbots-com — 1 operation(s) for audit.
+- cloudforbots-com Browser API — The browser API from cloudforbots-com — 1 operation(s) for browser.
+- cloudforbots-com Budget Guard API — The budget-guard API from cloudforbots-com — 6 operation(s) for budget-guard.
+- cloudforbots-com Bus API — The bus API from cloudforbots-com — 2 operation(s) for bus.
+- cloudforbots-com Coordination API — The coordination API from cloudforbots-com — 2 operation(s) for coordination.
+- cloudforbots-com Cron API — The cron API from cloudforbots-com — 1 operation(s) for cron.
+- cloudforbots-com Key API — The Key API from cloudforbots-com — 1 operation(s) for key.
+- cloudforbots-com Ledger API — The ledger API from cloudforbots-com — 1 operation(s) for ledger.
+- cloudforbots-com Loop Breaker API — The loop-breaker API from cloudforbots-com — 4 operation(s) for loop-breaker.
+- cloudforbots-com Queue API — The queue API from cloudforbots-com — 1 operation(s) for queue.
+- cloudforbots-com Run API — The Run API from cloudforbots-com — 9 operation(s) for run.
+- cloudforbots-com Run Memory API — The run-memory API from cloudforbots-com — 5 operation(s) for run-memory.
+- cloudforbots-com Sandbox API — The sandbox API from cloudforbots-com — 1 operation(s) for sandbox.
+- cloudforbots-com Secrets API — The secrets API from cloudforbots-com — 2 operation(s) for secrets.
+- cloudforbots-com Storage API — The storage API from cloudforbots-com — 3 operation(s) for storage.
+- cloudforbots-com Webhooks API — The webhooks API from cloudforbots-com — 4 operation(s) for webhooks.
+
+_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cloudforbots.com/)
+- [Documentation](https://cloudforbots.com/docs)
+- [API reference](https://cloudforbots.com/docs)
+- [Pricing](https://cloudforbots.com/pricing.json)
+- [Status](https://cloudforbots.com/status)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/cloudforbots-com/](https://apis.io/providers/cloudforbots-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for cloudforbots-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cloudforbots-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
