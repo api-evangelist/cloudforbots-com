@@ -74,26 +74,59 @@ Everything profiled for cloudforbots-com is published on APIs.io rather than in 
 
 ### APIs (18)
 
-- cloudforbots-com Agent Wake API — The agent-wake API from cloudforbots-com — 4 operation(s) for agent-wake.
-- cloudforbots-com Approval Rules API — The approval-rules API from cloudforbots-com — 6 operation(s) for approval-rules.
-- cloudforbots-com Audit API — The audit API from cloudforbots-com — 1 operation(s) for audit.
-- cloudforbots-com Browser API — The browser API from cloudforbots-com — 1 operation(s) for browser.
-- cloudforbots-com Budget Guard API — The budget-guard API from cloudforbots-com — 6 operation(s) for budget-guard.
-- cloudforbots-com Bus API — The bus API from cloudforbots-com — 2 operation(s) for bus.
-- cloudforbots-com Coordination API — The coordination API from cloudforbots-com — 2 operation(s) for coordination.
-- cloudforbots-com Cron API — The cron API from cloudforbots-com — 1 operation(s) for cron.
-- cloudforbots-com Key API — The Key API from cloudforbots-com — 1 operation(s) for key.
-- cloudforbots-com Ledger API — The ledger API from cloudforbots-com — 1 operation(s) for ledger.
-- cloudforbots-com Loop Breaker API — The loop-breaker API from cloudforbots-com — 4 operation(s) for loop-breaker.
-- cloudforbots-com Queue API — The queue API from cloudforbots-com — 1 operation(s) for queue.
-- cloudforbots-com Run API — The Run API from cloudforbots-com — 9 operation(s) for run.
-- cloudforbots-com Run Memory API — The run-memory API from cloudforbots-com — 5 operation(s) for run-memory.
-- cloudforbots-com Sandbox API — The sandbox API from cloudforbots-com — 1 operation(s) for sandbox.
-- cloudforbots-com Secrets API — The secrets API from cloudforbots-com — 2 operation(s) for secrets.
-- cloudforbots-com Storage API — The storage API from cloudforbots-com — 3 operation(s) for storage.
-- cloudforbots-com Webhooks API — The webhooks API from cloudforbots-com — 4 operation(s) for webhooks.
+- [cloudforbots-com Agent Wake API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-agent-wake-api/) — The agent-wake API from cloudforbots-com — 4 operation(s) for agent-wake.
+- [cloudforbots-com Approval Rules API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-approval-rules-api/) — The approval-rules API from cloudforbots-com — 6 operation(s) for approval-rules.
+- [cloudforbots-com Audit API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-audit-api/) — The audit API from cloudforbots-com — 1 operation(s) for audit.
+- [cloudforbots-com Browser API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-browser-api/) — The browser API from cloudforbots-com — 1 operation(s) for browser.
+- [cloudforbots-com Budget Guard API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-budget-guard-api/) — The budget-guard API from cloudforbots-com — 6 operation(s) for budget-guard.
+- [cloudforbots-com Bus API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-bus-api/) — The bus API from cloudforbots-com — 2 operation(s) for bus.
+- [cloudforbots-com Coordination API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-coordination-api/) — The coordination API from cloudforbots-com — 2 operation(s) for coordination.
+- [cloudforbots-com Cron API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-cron-api/) — The cron API from cloudforbots-com — 1 operation(s) for cron.
+- [cloudforbots-com Key API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-key-api/) — The Key API from cloudforbots-com — 1 operation(s) for key.
+- [cloudforbots-com Ledger API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-ledger-api/) — The ledger API from cloudforbots-com — 1 operation(s) for ledger.
+- [cloudforbots-com Loop Breaker API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-loop-breaker-api/) — The loop-breaker API from cloudforbots-com — 4 operation(s) for loop-breaker.
+- [cloudforbots-com Queue API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-queue-api/) — The queue API from cloudforbots-com — 1 operation(s) for queue.
+- [cloudforbots-com Run API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-run-api/) — The Run API from cloudforbots-com — 9 operation(s) for run.
+- [cloudforbots-com Run Memory API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-run-memory-api/) — The run-memory API from cloudforbots-com — 5 operation(s) for run-memory.
+- [cloudforbots-com Sandbox API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-sandbox-api/) — The sandbox API from cloudforbots-com — 1 operation(s) for sandbox.
+- [cloudforbots-com Secrets API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-secrets-api/) — The secrets API from cloudforbots-com — 2 operation(s) for secrets.
+- [cloudforbots-com Storage API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-storage-api/) — The storage API from cloudforbots-com — 3 operation(s) for storage.
+- [cloudforbots-com Webhooks API](https://apis.io/apis/cloudforbots-com/cloudforbots-com-webhooks-api/) — The webhooks API from cloudforbots-com — 4 operation(s) for webhooks.
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Cloudforbots Com Agentic Access](https://apis.io/agentic-access/cloudforbots-com/cloudforbots-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [cloudforbots-com API Rules](https://apis.io/rules/cloudforbots-com/cloudforbots-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cloudforbots Com Authentication](https://apis.io/security/cloudforbots-com/cloudforbots-com-authentication/)
+- [Cloudforbots Com Domain Security](https://apis.io/security/cloudforbots-com/cloudforbots-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Cloudforbots Com Plans Pricing](https://apis.io/plans/cloudforbots-com/cloudforbots-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Cloudforbots Com Rate Limits](https://apis.io/rate-limits/cloudforbots-com/cloudforbots-com-rate-limits/)
 
 ## Where to find this API
 
@@ -107,7 +140,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/cloudforbots-com/](https://apis.io/providers/cloudforbots-com/).
+**Kin Score 47.9** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 70.0 |
+| Contract quality | 42.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 34.7 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 38.9 |
+
+**Agent readiness 44.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 15.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cloudforbots-com/](https://apis.io/providers/cloudforbots-com/).
 
 ## How this profile is made
 
